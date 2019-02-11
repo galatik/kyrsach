@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea76c65c-d7cd-4bfc-b70a-eb017bf3b6d4" name="Default Changelist" comment="" />
+    <list default="true" id="ea76c65c-d7cd-4bfc-b70a-eb017bf3b6d4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/kyrsach.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kyrsach/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kyrsach/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kyrsach/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kyrsach/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webApi/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webApi/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webApi/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webApi/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webApi/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webApi/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webApi/views.py" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,13 +69,16 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+            <state relative-caret-position="357">
+              <caret line="21" column="29" lean-forward="true" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -78,6 +107,7 @@
     <option name="width" value="1750" />
     <option name="height" value="970" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -193,8 +223,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+        <state relative-caret-position="357">
+          <caret line="21" column="29" lean-forward="true" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
         </state>
       </provider>
     </entry>
